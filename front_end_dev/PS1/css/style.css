@@ -1,0 +1,48 @@
+body {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 3px solid #eee;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+ 
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
+.header-space {
+	margin-top: 15px;
+}
+
+.modal-image{
+	margin-right: 15px;
+	margin-bottom: 15px;
+	float: left;
+}
+
+.modal-body{
+	margin: 10px;
+	max-height: 420px;
+	overflow: auto;
+}
